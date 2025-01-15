@@ -1,6 +1,6 @@
 # Restore Quick Access Pinned Folders
 
-As a 2nd Line Engineer with an MSc in Cyber Security, I often encounter challenges when migrating users from an old laptop to a new one. One common issue is the migration of pinned folders in Quick Access not syncing correctly, even when most files are stored in the cloud.
+As a 2nd Line Engineer, I often encounter challenges when migrating users from an old laptop to a new one. One common issue is the migration of pinned folders in Quick Access not syncing correctly, even when most files are stored in the cloud.
 
 This repository provides a step-by-step guide to ensure all your Quick Access pinned folders are successfully transferred to your new device.
 
