@@ -44,7 +44,7 @@ If you have additional tips or encounter issues with this process, feel free to 
 
 ## **Connect with Me**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) for more insights and discussions on IT support and cybersecurity.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/keshonkarishan) for more insights and discussions on IT support and cybersecurity.
 
 ---
 
