@@ -12,7 +12,7 @@ This repository provides a step-by-step guide to ensure all your Quick Access pi
 2. **Navigate to the AutomaticDestinations Folder**  
    Copy and paste the following path into the File Explorer address bar and press Enter:  
    `%AppData%\Microsoft\Windows\Recent\AutomaticDestinations`  
-   ![Step 2](screenshots/step2.png)
+   ![Step 2](images/Folder_path.png)
 
 3. **Backup the Destination Files**  
    - Select all files in this folder (`Ctrl + A`).
@@ -29,7 +29,7 @@ This repository provides a step-by-step guide to ensure all your Quick Access pi
 
 6. **Replace Existing Files if Prompted**  
    If prompted with a dialog, click **"Replace the file in the destination."**  
-   ![Step 6](screenshots/step6.png)
+   ![Step 6](images/Replace_the_file_in_the_destination.png)
 
 7. **Refresh File Explorer**  
    Close and reopen File Explorer to apply the changes. Your pinned folders should now appear as they were on your old laptop.
